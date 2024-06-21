@@ -52,7 +52,7 @@ This case study demonstrates the development of a mobile application with a comp
     * Ensure you have Flutter installed on your system. Refer to the official documentation: https://docs.flutter.dev/get-started/install [invalid URL removed].
 2. **Clone the Project:**
     ```bash
-    git clone https://<your_github_repo_url>.git
+    git clone https://github.com/Mhmd-SHA/case_study_app_Bynry.git
     ```
 3. **Install Dependencies:**
    Navigate to the project directory and run:
