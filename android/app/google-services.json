@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "657389769926",
+    "project_id": "case-study-9d19c",
+    "storage_bucket": "case-study-9d19c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:657389769926:android:9453ac2642afef51a7f3c7",
+        "android_client_info": {
+          "package_name": "com.bynry.case_study_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBmKh6ljDnwuXPDIgatsiqOgp-8N0VcFI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
