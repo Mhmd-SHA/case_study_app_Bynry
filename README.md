@@ -44,7 +44,7 @@ This case study demonstrates the development of a mobile application with a comp
 
 ### Running the App
 
-<a href="https://github.com/Mhmd-SHA/case_study_app_Bynry/releases/download/v1.0.0/app-release.apk">TRY Realese APK</a>
+<a href="https://github.com/Mhmd-SHA/case_study_app_Bynry/releases/download/v1.0.0/app-release.apk">Download APK</a>
 
     USERNAME : mhmd@gmail.com
     PASSWORD : 123456
